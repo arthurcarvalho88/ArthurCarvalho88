@@ -1,16 +1,36 @@
-## Hi there 👋
+## Arthur Carvalho Chagas
 
-<!--
-**arthurcarvalho88/ArthurCarvalho88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor de Software | Estudante de ADS**
 
-Here are some ideas to get you started:
+Olá! Me chamo Arthur, tenho 20 anos e moro em São Paulo. Sou estudante de Análise e Desenvolvimento de Sistemas e a tecnologia sempre foi um grande interesse para mim, o que me motiva a aprender e focar nessa carreira. Tenho um perfil proativo, organizado e colaborativo. Meu objetivo no momento é encontrar uma oportunidade para aplicar meus conhecimentos no dia a dia e evoluir profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=arthurcarvalho88&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="Linguagens mais usadas" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcarvalho88&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
